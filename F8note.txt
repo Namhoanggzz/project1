@@ -1,0 +1,121 @@
+ Các thẻ 
+        1.h1-h6- heading
+        2.p-paragraph
+        3.img
+        4.a
+        5.ul,li
+        6.table
+        7.input
+        8.button
+        9.div
+
+        <ul>
+            <li>Internal</li>
+            <li>External</li>
+            <li>Inline</li>
+        </ul>
+
+
+Độ ưu tiên trong css
+
+1.Internal, External
+2.Inline - 1000
+3.#id - 100
+4. .class - 10
+5. tag -1
+6. Equal specificity?
+7. Universl selelector and inherited?
+8. !important
+
+
+Đặt biến css
+lớp giả :root { --text color: red;}
+
+
+
+Các đơn vị trong CSS
+1. Absolute units?
+px
+pt
+cm
+mm
+inch
+pc
+ 
+
+2. relative units?
+%
+rem
+em
+vw
+vh
+vmin
+vmax
+ex
+ch
+
+CSS functions? hàm
+var(
+linear-gradient(
+rgba(
+rgb(
+calc(
+attr(
+
+
+CSS pseudo-classes ( Lớp giả css)
+:root
+:hover
+:active
+:first-child
+:last-child
+
+CSS pseudo-element( Phần tử giả)
+:: before
+:: after
+:: first- letter
+:: first - line
+:: selection
+
+
+CSS position relative( định vị vị trí hiển thị)
+ Relative
+Absolute
+fixed
+Sticky
+
+Bài Thực hành 1
+https://fullstack.edu.vn/external-url?continue=https%3A%2F%2Fwww.w3schools.com%2Fw3css%2Ftryw3css_templates_band.htm
+
+1.Phân tích
+a. Header
+b.Slider
+c.Content
+1.About
+2. tour
+3.Contact
+4.image
+5.Footer
+
+2. Dựng base(xây móng)
+3. Xây dựng từng phần theo phân tích
+4.Hoàn thiện
+
+Những thành phần gặp trên giao diện website
+1. Header( Đầu trang)
+2.navigation( Điều hướng)
+3. Breadcrumb( Đường dẫn )
+4. Sidebar(Thanh bên)
+5. Silder(hình ảnh chạy tự động)
+6.Footer( Cuối trang)
+7. Content( nội dung)  
+8. Banner( Hình quảng cáo)
+
+
+III
+
+Media queries 
+
+PC 
+table
+Mobile
